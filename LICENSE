@@ -1,0 +1,33 @@
+
+---
+
+## 🔧 Tecnologias
+
+- ✅ Google Apps Script (GAS)  
+- ✅ Google Forms  
+- ✅ Google Drive API (v3)  
+- ✅ Google Sheets  
+
+---
+
+## 🚩 Como Usar
+
+1. Configure os IDs das pastas no arquivo `main.gs`.  
+2. Vincule o script ao Google Sheets conectado ao seu Formulário.  
+3. Ative a API do Google Drive na conta.  
+4. Preencha o formulário e veja a mágica acontecer! ✨  
+
+---
+
+## 📜 Licença
+
+[MIT License](LICENSE) - Livre para uso, modificação e distribuição.
+
+---
+
+## 👨‍💻 Autor
+
+Desenvolvido por **Kiyoshi Guahyba Yoshida** com apoio da inteligência artificial 🤖✨
+
+---
+

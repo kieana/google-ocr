@@ -1,0 +1,8 @@
+{
+  "name": "google-ocr",
+  "version": "1.0.0",
+  "description": "Automação de OCR com Google Apps Script, Drive e Sheets",
+  "author": "Kiyoshi Guahyba Yoshida",
+  "license": "MIT"
+}
+
