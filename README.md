@@ -29,5 +29,5 @@ Automatização completa de processamento de imagens via Google Forms, com OCR, 
 ---
 
 ## 🏗️ Estrutura de Pastas
-
+![Diagrama de Fluxo do Projeto Google OCR](https://github.com/kieana/google-ocr/blob/main/docs/diagram.png)
 
